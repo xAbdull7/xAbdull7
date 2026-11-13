@@ -33,11 +33,11 @@ name: Abdullah Abdel Samie
 role: Full-Stack Developer & Software Engineer
 education: Computer Science Student
 location: Egypt 📍
-passions:
-  - Designing responsive, accessible, and fast web experiences
-  - Architecting robust RESTful backends & database schemas
-  - Crafting developer tools, plugins & open-source utilities
-status: "Constantly building, optimizing, and exploring new horizons ⚡"
+focus_areas:
+  - Designing responsive, accessible, and high-performance web applications
+  - Architecting scalable RESTful APIs, microservices & relational schemas
+  - Engineering custom client automation plugins and developer tooling
+status: "Actively building, optimizing, and exploring next-gen web systems ⚡"
 ```
 
 ---
@@ -49,7 +49,7 @@ status: "Constantly building, optimizing, and exploring new horizons ⚡"
     <td width="50%" valign="top">
       <h3 align="center">🏡 Darak Real Estate</h3>
       <p align="center">
-        منصة عقارية متكاملة لحجز وتأجير العقارات مع نظام إدارة متقدم وتجربة مستخدم سلسة.
+        A full-stack property rental platform engineered with modern state management, relational persistence, and clean UI architecture.
       </p>
       <p align="center">
         <img src="https://skillicons.dev/icons?i=nextjs,react,ts,nodejs,postgres,prisma" alt="Darak Stack" />
@@ -59,15 +59,15 @@ status: "Constantly building, optimizing, and exploring new horizons ⚡"
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">🔊 SoundSwitch</h3>
+      <h3 align="center">⚡ Loopr</h3>
       <p align="center">
-        إضافة مميزة لـ BetterDiscord لتثبيت والتبديل بين مؤثرات ديسكورد الصوتية الموسمية على مدار العام.
+        Next-generation client-side Discord Quest automation engine for BetterDiscord with zero client lag and non-blocking async execution.
       </p>
       <p align="center">
-        <img src="https://skillicons.dev/icons?i=js" alt="SoundSwitch Stack" />
+        <img src="https://skillicons.dev/icons?i=js,nodejs,electron" alt="Loopr Stack" />
       </p>
       <p align="center">
-        <a href="https://github.com/xAbdull7/SoundSwitch"><b>📦 View Repository</b></a>
+        <a href="https://github.com/xAbdull7/Loopr"><b>📦 View Repository</b></a>
       </p>
     </td>
   </tr>
@@ -75,7 +75,7 @@ status: "Constantly building, optimizing, and exploring new horizons ⚡"
     <td colspan="2" align="center">
       <h3>🌐 Personal Portfolio & Developer Hub</h3>
       <p>
-        موقعي الشخصي التفاعلي لاستعراض الأعمال والخبرات ووسائل التواصل بأداء وسرعة فائقة.
+        A fast, responsive web portfolio showcasing personal projects, production work, and developer contact channels.
       </p>
       <p>
         <img src="https://skillicons.dev/icons?i=ts,react,tailwind,vercel" alt="Portfolio Stack" />
@@ -122,12 +122,12 @@ status: "Constantly building, optimizing, and exploring new horizons ⚡"
 
   <!-- GitHub Overall Stats -->
   <a href="https://github.com/xAbdull7">
-    <img src="https://github-readme-stats-anuraghazra.vercel.app/api?username=xAbdull7&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7aa2f7&icon_color=bb9af7&text_color=c0caf5" alt="Abdullah's GitHub Stats" />
+    <img src="https://github-readme-stats-alpha.vercel.app/api?username=xAbdull7&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7aa2f7&icon_color=bb9af7&text_color=c0caf5" alt="Abdullah's GitHub Stats" />
   </a>
   
   <!-- GitHub Top Languages -->
   <a href="https://github.com/xAbdull7">
-    <img src="https://github-readme-stats-anuraghazra.vercel.app/api/top-langs/?username=xAbdull7&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7aa2f7&text_color=c0caf5" alt="Top Languages" />
+    <img src="https://github-readme-stats-alpha.vercel.app/api/top-langs/?username=xAbdull7&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7aa2f7&text_color=c0caf5" alt="Top Languages" />
   </a>
 
   <br/><br/>
@@ -142,6 +142,6 @@ status: "Constantly building, optimizing, and exploring new horizons ⚡"
 ---
 
 <div align="center">
-  <p><i>⭐ If you like what I build, feel free to explore my repos and leave a star!</i></p>
+  <p><i>⭐ If you like what I build, feel free to explore my repositories and leave a star!</i></p>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10,20,30&height=100&section=footer" width="100%" />
 </div>
